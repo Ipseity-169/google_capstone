@@ -19,7 +19,7 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 
 ----
 #  Data Processing 
-The data analysis will be carried out in R due to the amount of data and in order to create data visualizations for the stakeholders. The following library will be used:
+The data analysis will be carried out in R due to the amount of data and in order to create data visualizations for the stakeholders. But first I previewed the datasets in Exel to get feel of them. The following R library will be used:
 * tidyverse
 * here
 * skimr
@@ -29,6 +29,13 @@ The data analysis will be carried out in R due to the amount of data and in orde
 * ggrepel
 
 ----
+# Datasets
+The following datasets are to be used in the analysis
+* dailyActivity_merged
+* dailyIntensities_merged
+* dailySteps_merged
+* dailySleep_merged
 
+----
 
 
