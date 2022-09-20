@@ -18,7 +18,17 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 * Note that the dataset is not a current one and that the data was only collated for a period of two months. These limitations might affect the results of the analysis and the insights offered
 
 ----
-#
+#  Data Processing 
+The data analysis will be carried out in R due to the amount of data and in order to create data visualizations for the stakeholders. The following library will be used:
+*tidyverse
+*here
+*skimr
+*janitor
+*lubridate
+*ggpubr
+*ggrepel
+
+----
 
 
 
