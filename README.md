@@ -20,13 +20,13 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 ----
 #  Data Processing 
 The data analysis will be carried out in R due to the amount of data and in order to create data visualizations for the stakeholders. The following library will be used:
-*tidyverse
-*here
-*skimr
-*janitor
-*lubridate
-*ggpubr
-*ggrepel
+* tidyverse
+* here
+* skimr
+* janitor
+* lubridate
+* ggpubr
+* ggrepel
 
 ----
 
